@@ -1,0 +1,256 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An enquiry after further satisfaction concerning obeying a change of government beleeved to be unlawfull. Tendred to the Presbyterian proposer, by way of reply to his book intituled; The lawfulnesse of obeying the present government. By a dissenting brother.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87272</idno>
+            <idno type="STC">Wing I209D</idno>
+            <idno type="STC">Thomason E556_24</idno>
+            <idno type="STC">ESTC R17423</idno>
+            <idno type="EEBO-CITATION">99860190</idno>
+            <idno type="PROQUEST">99860190</idno>
+            <idno type="VID">112304</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87272)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112304)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 86:E556[24])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An enquiry after further satisfaction concerning obeying a change of government beleeved to be unlawfull. Tendred to the Presbyterian proposer, by way of reply to his book intituled; The lawfulnesse of obeying the present government. By a dissenting brother.</title>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.T.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno Dom. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Identified as Wing R2042 on UMI microfilm set "Early English books, 1641-1700".</note>
+                  <note>Annotation on Thomason copy: "May 29".</note>
+                  <note>Reproductions of the originals in the British Library and the Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rous, Francis, 1579-1659. --  Lawfulness of obeying the present government.</term>
+               <term>Second part of the Religious demurrer.</term>
+               <term>Government, Resistance to --  England --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth and Protectorate, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112304:1" rendition="simple:additions"/>
+            <p>AN ENQUIRY After further ſatisfaction con<g ref="char:EOLhyphen"/>cerning obeying a change of Go<g ref="char:EOLhyphen"/>vernment beleeved to be unlawfull.</p>
+            <p>Tendred to the <hi>Presbyterian</hi> Propoſer, by way of Reply to his Book Intituled; <hi>The lawfulneſſe of obeying the preſent Government.</hi> By a diſſenting Brother</p>
+            <q>
+               <bibl>
+                  <hi>ROM. 14.23.</hi>
+               </bibl> He that doubteth, is damned if he eat, becauſe not of faith: for whatſoever is not faith, is ſinne.</q>
+            <p>LONDON, Printed for <hi>G. T. Anno Dom.</hi> 1649.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:112304:2"/>
+            <pb facs="tcp:112304:2"/>
+            <head>To the Author of a Book inti<g ref="char:EOLhyphen"/>tuled, <hi>The lawfulneſs of obeying the preſent</hi> GOVERNMENT</head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving ſeen your treatiſe, and being in the number of thoſe to whom your diſcourſe is directed, I do in my own and others behalfs returne you thanks, for your offer and en<g ref="char:EOLhyphen"/>deavour to hold forth ſomewhat for the ſa<g ref="char:EOLhyphen"/>tisfaction of thoſe who deſire to walke by rule, and cannot comply with alterations, great, ſudden, and of publick concernment upon ſuch grounds, as peradventure take with ſome others.</p>
+            <p>In the argument you expreſſe your ſelf thus, a declaration hath been lately publiſhed, wherein the grounds are exprest of ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ling the preſent government, with which if any be not ſo far ſatisfyed as to think that ſettlement lawfull, yet even to ſuch is this discourſe directed, which propoſeth proofs, that though the change of a government were beleeved not to be lawful, yet it may lawfully be obeyed.</p>
+            <p>I hope you wil not take offence, if I (having many times read over, and as I was able weighed your treatiſe) do acknowledg, that I am not yet ſatisfyed in that which is made the buſines of
+<pb n="4" facs="tcp:112304:3"/>your book. I ſuppoſe alſo that J ſhall not in this writing giv<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> offence to any of different Judgement, and J am apt to beleeve that thoſe that are true to the principles of Liberty of Conſci<g ref="char:EOLhyphen"/>ence, wil not take offence at me for propoſing in a peaceable way the grounds of my ſcruples, to ſuch a caſuiſt, as if the worke it ſelf be feaſable, may be a probable inſtrument of clearing that caſe wherein he hath appeared, and therin both ſatisfy the ſpirits of many that truly fear the Lord, and be ſerviceable to the eſtabliſhing of the new fabrick, in a more honourable and laſting way, than the greateſt penaltyes can enc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mpaſſe. For my ſelf I ſhall only adde thus much, that I am perſwaded; if you knew, how much unbeleef lodges in my heart, and how great inconveniencyes I must wrestle with, in caſe my ſcruples be not ſatisfyed; you would not much doubt, but that I would be as willing to receive ſatisfaction, as you have expreſt your ſelfe to give it. Thus leaving the following lines to your conſideration I reſt,</p>
+            <closer>
+               <signed>SJR, <hi>Yours obliged and to be obliged.</hi>
+               </signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="5" facs="tcp:112304:3"/>
+            <head>An Enquiry after further ſatisfaction concerning o<g ref="char:EOLhyphen"/>beying a change of government beleeved to be unlawfull.</head>
+            <p>THe Queſtion is this, whether though the change of a Go<g ref="char:EOLhyphen"/>vernment were beleeved not to be lawfull, yet it may law<g ref="char:EOLhyphen"/>fully be obeyed?</p>
+            <p>A late Treatiſe propoſeth proofs for the affirmative; which before we come to examine, it will not be amiſſe to conſider ſome things by way of premiſe towards the clearing of the point in queſtion.</p>
+            <p>And here in the firſt place let it be conſidered, whence it is, that this or that particular perſon, comes to be a Subject to this or that particu<g ref="char:EOLhyphen"/>lar Government or Governour? and this may be foure wayes.</p>
+            <p n="1">1. In regard of originall or naturall deſcent and inferiority. Thus in the firſt age of the World, <hi>Cain, Abel, Seth,</hi> and t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e reſt of <hi>Adams</hi> Children and their Of-ſpring, were under the government of <hi>Adam</hi> by naturall right; and this is founded upon the primitive tearms of the 5th. Commandement, <hi>Honour thy Father.</hi>
+            </p>
+            <p>And to this head we may referre the ſubjection of the younger Brother to the elder as being in ordinary courſe the Heir of his Fa<g ref="char:EOLhyphen"/>thers government. And thus, with <hi>Chryſostom, Muſculus,</hi> and others, I underſtand that as ſpoken by God, to <hi>Cain</hi> the elder Brother, con<g ref="char:EOLhyphen"/>cerning <hi>Abel. Gen.</hi> 4.7. <hi>Vnto thee ſhall be his deſire and thou ſhalt rule over him.</hi> The like Phraſes are uſed in the 3d. <hi>chapter v.</hi> 16. con<g ref="char:EOLhyphen"/>cerning the ſubjection of the Wife to the government of the Husband.</p>
+            <p n="2">2. In regard of ſome ſpeciall precept or inſtitution of God. So when<g ref="char:EOLhyphen"/>ſoever God doth expreſly aſſigne a perſon to government over a Kingdom, the Subjects of that Kingdome are thereupon bound to o<g ref="char:EOLhyphen"/>bey that perſon. So <hi>David</hi> was taken from feeding of Sheep to be Ruler over <hi>Iſrael.</hi> 1 <hi>Sam.</hi> 16.1. <hi>The Lord ſaid unto Samuell, fill thine Horn with Oyle, &amp; go, I, wil ſend thee to</hi> Jeſſe <hi>the Bethlemit: for I have provided me a King among his Sons.</hi> The like we read concerning <hi>Ieſus,</hi> who was in particular appointed by God to be King over <hi>Iſrael.</hi> Theſe caſes are extraordinary, and the ground of obeying in theſe ca<g ref="char:EOLhyphen"/>ſes, is, that Soveraignty of God whereby he beſtows authority on whom he pleaſes; expreſt by ſome ſpeciall word, whereby in ſuch ca<g ref="char:EOLhyphen"/>ſes
+<pb n="6" facs="tcp:112304:4"/>the title of government may be known to be by divine donation. <hi>Jer.</hi> 27 5.6. <hi>I have made the Earth, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> man and the beaſt that are upon the ground, by my great power, and by my out-ſtretched Arm; and have given it unto whom it ſeemed meet unto me; and now have I given all theſe Lands into the hand of</hi> Nebuchadnezer <hi>the Ki<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g of</hi> Babylon <hi>my ſervant.</hi>
+            </p>
+            <p n="3">3. In regard of place. Suppoſe a man, with his family, g<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> into ſom<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> place which hath neither owner nor Inhabitant: he pla<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> and p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſeſſes that place, and hath by right of primitive poſſeſſion, au<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ority to govern in that place; and if afterward any other come to dwell within compaſſe of that Plantation he ought to be ſubject to the Go<g ref="char:EOLhyphen"/>vernour and government of the place; and ſo ordinarily, whatſo<g ref="char:EOLhyphen"/>ever Kingdome a man comes into; he is during his abode there ſubject to the authority of the place; and here is the proper roome for that ſaying, <hi>perſona ſequitur locum.</hi> And upon this account it is, that the fourth Commandement enjoynes the governour of a Family or City, to ſee that the Sabbath be not prophaned by the ſtranger that is with<g ref="char:EOLhyphen"/>in their gates; for whilſt he is within their bounds, he is within their jurisdiction; and thus the patriarks by ſoj<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>urning in <hi>Aegypt,</hi> became ſubjects to <hi>Pharaoh.</hi>
+            </p>
+            <p n="4">4. <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n regard of conſent. When thoſe that are free to diſpoſe of themſelves or others under a Government or Governour, do by ſuch conſent conſtitute or lay a foundation for Government. Thus was the origin<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll of the <hi>Romans</hi> under <hi>Romulus,</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s the learned Author of the Treatiſe; <hi>de juro Magiſtratum in ſubditos</hi> informs us. <hi>A Romulo populus Romanus creatus fuiſſe dicitur, quia prius originalis populus non fuerit ſed multitudo quaedam ex varijs gentibus &amp; populis tol<g ref="char:EOLhyphen"/>lecta. Romulus in has gentes collectitias, non niſi ex ipſarum conſen<g ref="char:EOLhyphen"/>ſu dominatus eſt.</hi> The Scripture gives many inſtances of the right of government founded in conſent or agreement: amongſt others the caſe of <hi>Iepthath</hi> is cleer. <hi>Iudg.</hi> 11.8.11. <hi>The Elders of Gilead ſaid unto</hi> Jephthah <hi>go with us and fight againſt the Children of</hi> Ammon, <hi>and be our head over all the Inhabitants of</hi> Gilead, <hi>and the people made him head and Captaine o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er them.</hi>
+            </p>
+            <p>Againe it is conſiderable, in what reſpect the change of a Govern<g ref="char:EOLhyphen"/>ment is beleeved to be unlawfull, whether it be.</p>
+            <p n="1">1. Only in regard of the end, that thoſe aime at, which do alter the government. And in this caſe I conceive, if there be nothing to viti<g ref="char:EOLhyphen"/>ate the change but a bad end in the changers, this doth not make it un<g ref="char:EOLhyphen"/>lawfull to be obeyed.</p>
+            <p>
+               <pb n="7" facs="tcp:112304:4"/>Or 2. In regard of the comparative badneſſe of the Government brought in by change. As if inſtead of a well regulated monarchy, a more turbulent democraſie were brought in. In this caſe I conceive, if there be no exception againſt the change, but the bringing in of a leſſe commendable government, this doth not make it unlawfull to obey it.</p>
+            <p>Or 3 in regard of the Commiſſion that thoſe have that do alter the Government. For, if they be not plenipotentiaryes as to ſuch an act of inſtituting a new government; that new fabrick will want au<g ref="char:EOLhyphen"/>thority which is the ſoul of government, &amp; therefore I do not <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e how it may be obeyd.</p>
+            <p>As put caſe, in <hi>Eutopia</hi> the <hi>Majeſtas</hi> or ſupreme authority lies in 3. Eſtates; a Prince, Nobles, and Repreſenters of the Communalty in Se<g ref="char:EOLhyphen"/>nate aſſembled, if theſe by their joynt authority do make very conſi<g ref="char:EOLhyphen"/>derable alterations in erecting or aboliſhing Courts, enlarging or re<g ref="char:EOLhyphen"/>ſtraining power of ſtate-Officers. I make no queſtion but in this caſe the <hi>Eutopians</hi> may as well without ſcruple comply with theſe acts, as with the other Statute-laws of that Kingdome; becauſe theſe alterati<g ref="char:EOLhyphen"/>ons are acts within the compaſſe of the ſupreme authority.</p>
+            <p>Again put caſe: theſe 3 Eſtates in Eutopia undertake to overthrow the Fundamentall government, and ſet up one of thoſe 3 to be the ſu<g ref="char:EOLhyphen"/>preme and inſtead of the whole fundamental government, if the que<g ref="char:EOLhyphen"/>ſtion were put whether the inhabitants of Eutopia might obey that ſingle eſtate as the ſole ſupream, upon a Declaration or act of the 3. eſtates to that eff<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct: this I conceive a very diffi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ult caſe: and the clear ſtating of it wil require a man welg<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ed in the hiſtory of the <hi>Eutopian</hi> Government, and well ſtudied in that grand queſtion in Po<g ref="char:EOLhyphen"/>liticks, <hi>an jura Majeſtatis ſint communicabilia?</hi>
+            </p>
+            <p>But put caſe, one of thoſe 3. Eſtates in <hi>Eutopia</hi> will undertake to ex<g ref="char:EOLhyphen"/>clude the other 2 and to ſet up it ſelf ſolely as ſupreme; and to Null laws made by all 3 eſtates: of one that is not able to comprehend how this act is within compaſſe of the commiſſion of that one eſtate<g ref="char:punc">▪</g> doth thereupon beleeve that change of Government not to be lawfull. If the Queſtion be put, whether one ſo beleeving may obey that change, I muſt confeſſe I am not ſatisfyed in the Affirmative, and my reaſon is this; Becauſe if that change be not an act of authority it may not be obeyed, and that it is not an act of authority, ſeems to me rational up<g ref="char:EOLhyphen"/>on obvious inferences from theſe grounds. <hi>Pa<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> inp<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rem non habet authoritatem. Totum aggregatum est mains qualib<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t ſui parte. Ejuſ<g ref="char:EOLhyphen"/>dem est leges abol<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>re cuius eſt condere.</hi> The Engliſh of all which may
+<pb n="8" facs="tcp:112304:5"/>be ſummed up in this: a leſſer authority hath no authority over a greater.</p>
+            <p>Again put caſe, that eſtate in Eutopia was under a force when it did decree that change of Government: by reaſon of which force many Members were kept away: and one that doth not queſtion the ordina<g ref="char:EOLhyphen"/>ry power of that eſtate, doth yet beleeve that the change being made by that Eſtate, under that diſadvantage of force, is not lawfull. If the queſtion be put, whether in this caſe, he that ſo beleeves the unlawfull<g ref="char:EOLhyphen"/>neſſe of that change, may, till he be otherwiſe informed, obey that change: <hi>I</hi> ſay as in the former caſe, I am not ſatisfyed in the Affirma<g ref="char:EOLhyphen"/>tive. I ſhall illuſtrate this caſe by a ſuppoſition hearer home, there is in the firſt leaf of the <hi>B<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>eif Memento,</hi> the copy of an ordinance, wher<g ref="char:EOLhyphen"/>in is expreſt, That all Votes, Orders, Ordinances paſſed in either or both houſes of Parliament, between the 26 of July and the 6 of Au<g ref="char:EOLhyphen"/>guſt 1647. were null and voyd at the making thereof, the Parliament being under a force and not free. Now ſuppoſe that in this ſpace of time there had paſſed, in either or both houſes of Parliament, a decree for the chang of Government: ſuppoſe further that one that truly ho<g ref="char:EOLhyphen"/>nours the Parliament, and is of the ſame judgement with that Ordi<g ref="char:EOLhyphen"/>nance of the 20 of AVGVST 1647. and knew of the force mentioned therein; doth thereupon beleeve that change of government to be un<g ref="char:EOLhyphen"/>lawfull, if it be asked whether he, ſo beleeving, may lawfully obey that change of government, I would anſwer, no. And my reaſon is this; poſitive precepts do imply negative duty: I mean thus; that com<g ref="char:EOLhyphen"/>mand that ſayes <hi>Honor thy Father and thy Mother,</hi> doth as well for<g ref="char:EOLhyphen"/>bid obeying that which is not authority, as command obeying that which is authority: now that chang of Government (being (according to the ſuppoſition) decreed, the Parliament being under a force) ha<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h nothing at all of authority in it: becauſe the decree is null and voyd at the time of the making thereof.</p>
+            <p>Now Reader take the right ſtate of the queſtion along with you. the queſtion is not concerning the Forbearing of reſiſtance, or concer<g ref="char:EOLhyphen"/>ning ſome kinde of occaſionall compliance, but only concerning obe<g ref="char:EOLhyphen"/>dience which is a duty of the 5 Commandement. Nor is the queſtion in general whether a change of Government may be obey'd, but whe<g ref="char:EOLhyphen"/>ther it may be obeyed by one that beleeves the unlawfulneſſe of the change, nor ſhall it be queſtioned for me, whether though a change of government were beleeved to be in ſome reſpect not lawfull, it may yet lawfully be obeyed, but that which I hold is this, that if the
+<pb n="9" facs="tcp:112304:5"/>change of a government be beleeved not to be lawfull, for want of ſufficient authority in that change, then he that ſo beleeves may not lawfully obay it. For this I could produce proofes; But I wave them; and come now to conſider, what the presbyterian propoſer offers by way of proofe.</p>
+            <p>And in the firſt place that Scripture <hi>Rom.</hi> 13. is alledged Which Scripture if deerely opend, and rightly applied, would ſtate the preſent and many other controverſies. And here I grant that Scrip<g ref="char:EOLhyphen"/>ture requires ſubjection both to authority, and to perſons clothed with that authority. Neither doe I deny, but that Scripture proves ſub<g ref="char:EOLhyphen"/>jection due to <hi>Claudius</hi> and <hi>Nero</hi> when they were inveſted in autho<g ref="char:EOLhyphen"/>rity. But here the propoſer queries the lawfulneſſe of their coming to be inveſted in their authority, and ſayes, that the Souldiery was the foundation of <hi>Claudiuſe's</hi> and of <hi>Neroes</hi> empire: and here I grant that the Souldiery was the occaſion or means by which they came to be Emperours. But I deny that they received authority from the ſoul<g ref="char:EOLhyphen"/>diery; they received it from the people or Senat; and they had power to give it I toucht before the originall of the <hi>Roman</hi> Power. <hi>Romu<g ref="char:EOLhyphen"/>lus</hi> was the firſt King, and he raigned by conſent of thoſe who had power to give up their conſent. This <hi>Romulus</hi> did inſtitute as the great councell a Senate conſiſting of 100 men; Which number afterwards encreaſed. The power of the Senate to confirme a ſupreame Gover<g ref="char:EOLhyphen"/>nour, may be proved out of <hi>Livius</hi> and other authors. And that <hi>Nero</hi> had the conſent of the Senate is cleere, by what the propoſer <hi>p.</hi> 3. cites out of <hi>Tacitus,</hi> in theſe words. The Sentence of the Souldiers was followed with the conſent of the Senate, and then it was not ſcrupl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d in the provinces. And that <hi>Claudius</hi> had alſo the conſent of the Senate, may be gathered out of approved authors, and is not denyed by the propoſer. I ſay then that, though the Souldiers could not give them a legall title, yet the Senate both could and did. That an unlawfull means and a legall title may meet together, I ſhall illuſtrate by a ſimilitude in an other kind. The Uſurer lends a man 100 pound, and has his bond for the principal and 8 pound intereſt; the borrow<g ref="char:EOLhyphen"/>er dyes; the Executor may pay that 8 pound above the principal: be<g ref="char:EOLhyphen"/>cauſe though the Uſurer hath not a morall right to that 8 l. by lending upon uſury, yet he hath a legall title to it by the bond of the decea<g ref="char:EOLhyphen"/>ſed. So he that by uſurpation encroaches upon a Crowne; if beſides this<g ref="char:punc">▪</g> he gaines alſo a legall title; may be obayed upon that legall title, though not upon the ground of Uſurpation. To this purpoſe is that
+<pb n="10" facs="tcp:112304:6"/>
+               <hi>De jure Magistratuum p.</hi> 22. <hi>vitium quod ab initio uſurpationi inerat peteſt poſtea emendari: adeo ut quî ab initio tyrannus fuit, poſſit legi<g ref="char:EOLhyphen"/>timus et inviolabilis magiſtratus effici, ſi videlicet poſtea liber et le<g ref="char:EOLhyphen"/>gitimus acceſſerit corum conſenſus, qui verum et legitimum magiſtra<g ref="char:EOLhyphen"/>tum creare et conſtituere poſsunt.</hi> ſhe like anſwer to what I have gi<g ref="char:EOLhyphen"/>ven to that text Rom 13 doth Mr. <hi>Burroughs</hi> give to Dr. <hi>Ferne,</hi> his words are theſe <hi>p.</hi> 7. The apoſtle requires them not to reſiſt their power, their <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> he doth not charge them not to reſiſt their Ty<g ref="char:EOLhyphen"/>ranny. Certainly they could have no power but that which was given them by ſome agreement; if they challengd further it was no autho<g ref="char:EOLhyphen"/>rity at all. And afterward <hi>p.</hi> 8. what they got and held meerely by for<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e without any conſent or agreement, was no power, no authori<g ref="char:EOLhyphen"/>ty at all but might be reſiſted notwithſtanding that prohibition.</p>
+            <p>From the Scripture argument the propoſer paſſes to hiſtoricall obſer<g ref="char:EOLhyphen"/>veſions about the inter uption of lineall ſucceſſion to the Crowne in <hi>England.</hi>
+            </p>
+            <p>To which I might Anſwer that, <hi>a facto ad jus non valet argumentum.</hi> Whatſoever title others have had in former ages, if the title ſince be cleere, wee neede not trouble our ſelves with thoſe obſervations, which the propoſer ſayes, Learned men and ſtates-men have been ig<g ref="char:EOLhyphen"/>norant of. I ſhall therefore here only cite ſome paſſages out of a par<g ref="char:EOLhyphen"/>liamentary acknowledgment. <hi>Anno</hi> 1. <hi>Jacobi Regis. Your moſt hum<g ref="char:EOLhyphen"/>ble and loyall Subjects, the Lords ſpirituall and temporall, and the Commons in this preſent Parliament aſſembled, in moſt humble and lowly manner doe beſeechy ur moſt Excellent Majeſty, that (as a memoriall to all poſterities, amongst the records of your high court of Parliament for ever to endure, of our loyalty, obedience, and hearty humble affection) it may be publiſhed and declared in this high court of Parliament, and enacted by authority of the ſame, that wee (being bounden thereunto both by the lawes of God and Man) doe recognize and acknowledge, that immediately upon the diſſolution and deceaſe of</hi> Elizabeth <hi>late Queene of</hi> England, <hi>the imperiall Crown of the realme of</hi> England, <hi>and of all the Kingdomes, Dominions, and rights belong<g ref="char:EOLhyphen"/>ing to the ſame, did by inherent birthright and lawful and undoubted ſucceſſion, deſcend and come to your moſt Excellent Majeſty, as being lineally, juſtly, and lawfully, next and ſole heir of the blood royall of this realme, as is aforeſaid, and that by the goodneſſe of God almighty and lawfull right of deſcent, under one</hi> imperiall Crowne, <hi>your Majeſty is of the Kingdomes of</hi> England &amp;c. <hi>King — And
+<pb n="11" facs="tcp:112304:6"/>thereunto we moſt humbly and faithfully do ſubmit, and obleige our ſelves our heirs, and poſterities for ever, untill the laſt drop of our blonds be ſpent. And doe beſeech your Majeſty to accept the ſame, as the firſt fruits in this high court of Parliament, of our loyaltie and faith to your Majeſty, and your Royall Progeny, and Poſterity for ever.</hi>
+            </p>
+            <p>The Propoſer likewiſe cites the judgement of a few divines and ca<g ref="char:EOLhyphen"/>ſuiſts for obeying the commands of an Vſurper. And I beleeve thoſe that abound with books may meet with far more of the contrary judgement. But becauſe our faith muſt not ſtand in the wiſdome of men; and we are upon a caſe of conſcience, wherein the opinions of men are of ſmal weight; I judge it ſuperfluous to multiply Authors: take therefore only 2. for a taſt, Mr. Burroughs anſwer to Dr. Ferne. p. 7. there is no body here that yet hath attempted to take any power away from the King that law hath given him. Howſoever the point of inheritance or conqueſt can not hinder; for firſt, none inherits but that which his Progenitors had, and his Progenitors had no more originally then by conſent was given them; therefore the difference between Kings by Inheritance, and Kings by election, in this caſe is not much. And for conqueſt, that only ſettles former right, or makes way to ſome farther agreement, to adde to what was former; the right comes not from power to conquer, or act of conquering, but from ſome agreement, precedent, or conſequent. <hi>de jure Magiſtratu<g ref="char:EOLhyphen"/>um</hi> p. 27 <hi>is qui alienos invadit nullo modo ſibi ſubditos, et ſi cupiat juſte et ex bono et equo dominari (ficut de Piſistrato et Demetrio Pha<g ref="char:EOLhyphen"/>laraeo apud Athenienſes legimus) poteſt tamen jure impediri, etiam ar<g ref="char:EOLhyphen"/>mata manu, et a quibuſvis vel infimae ſort is, quibus vim inferre volu<g ref="char:EOLhyphen"/>erit quum nuſto jure illi obſtringantur.</hi>
+            </p>
+            <p>From the alledging of Authors the Propoſer comes again to argu<g ref="char:EOLhyphen"/>ing, and urging the former Scripture, tells us, it ſpeaks not of obeying thoſe that ſhall be powers, but the powers that are, and thoſe that are in authority.</p>
+            <p>I grant it is ſpoken of the preſent powers: but who are thoſe? ſurely thoſe which are conſtituted powers, not thoſe which are preten<g ref="char:EOLhyphen"/>ders to power. Whatſoever force riſes up to hinder the Parliament, yet the Parliament is a power in being, becauſe it has a legall being. To this purpoſe is that which we read in Mr. Burroughs book, intituled <hi>The glorious Name of God the Lord of Hoſts,</hi> which book was printed by order from a Committee of the Houſe of Commons. In that book
+<pb n="12" facs="tcp:112304:7"/>p. 47 he tels us, the Kingdome hath a Parliament in being, untill both Houſes have agreed to diſolve it. And in his anſwer to Doctor <hi>Ferne p.</hi> 3 He plates the Emphaſis upon the word power; for thus he writes; We diſtinguiſh between the man that hath the power, and the power of that man, and ſay although the power muſt not be reſiſted accor<g ref="char:EOLhyphen"/>ding to the letter and ſence of the Text, yet the illegal will and wayes of the Man, may be reſiſted without the leaſt offending againſt the Text.</p>
+            <p>To what the propoſer demands concerning the covenant, I will on only tell you what is lately publiſh: by Mr. <hi>Canne</hi> a great patron of the late proceedings, in his booke againſt the Covenant <hi>p.</hi> 7. his words are theſe. It is not poſſible that ever this Common wealth ſhould be ſetled according to what the Parliament hath lately declared, and the Covenant duly obſerved; ſo incompatible is the one with the other.</p>
+            <p>To the propoſers paſſage concerning heirs and ſucceſſors in the Oath of allegiance. I ſay (with ſubmiſſion to better information) whereas the office of a King may outlive the race of a King, there are therefore mentioned not only heirs but ſucceſſours; that in caſe heirs faile, yet Kingſhip might not dy, and therefore heirs is ſet firſt, and ſucceſſours after. But of this enough, and it may be alſo this may ſeeme ſuperfluous; for if the propoſed alteration goe on, it will ex<g ref="char:EOLhyphen"/>clude both heirs and ſucceſſours.</p>
+            <p>To the laſt Quere of the propoſer (if I underſtand the meaning of it) there may be a ſufficient anſwer pickt out of the laſt paſſage which I cited out of Mr <hi>Barroughs.</hi>
+            </p>
+            <p>I ſhall therefore here conclude with the councell of the moſt wiſe God, given by the wiſeſt of Men. prov. 24.21.22. <hi>My Son, feare thou the Lord, and the King: and meddle not with them that are gi<g ref="char:EOLhyphen"/>ven to change. For their calamity ſhall riſe ſuddenly, and who know<g ref="char:EOLhyphen"/>eth the ruine of them both.</hi>
+            </p>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
